@@ -1,0 +1,98 @@
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\ShoppingCart.exe.config
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\ShoppingCart.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\EntityFramework.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\PayPal.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\EntityFramework.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\MaterialDesignColors.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\PayPal.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\ru\EntityFramework.resources.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\MainWindow.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\App.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\App.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\MainWindow.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.g.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x64\Debug\ShoppingCart.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\ShoppingCart.exe.config
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\ShoppingCart.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\EntityFramework.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\PayPal.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\EntityFramework.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\MaterialDesignColors.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\PayPal.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\ru\EntityFramework.resources.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\bin\x64\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\MainWindow.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\App.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\App.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\MainWindow.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.g.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\OnlineShop\OnlineShop\ShoppingCart\obj\x64\Debug\ShoppingCart.pdb
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\ShoppingCart.exe.config
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\ShoppingCart.exe
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\ShoppingCart.pdb
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\EntityFramework.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\PayPal.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\EntityFramework.xml
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\PayPal.xml
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\bin\x64\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\App.baml
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\MainWindow.baml
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart.g.resources
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart.exe
+C:\Users\User\Desktop\OnlineShop-master\ShoppingCart\obj\x64\Debug\ShoppingCart.pdb

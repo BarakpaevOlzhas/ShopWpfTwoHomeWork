@@ -1,0 +1,5 @@
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x86\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x86\Debug\MainWindow.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x86\Debug\App.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x86\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\x86\Debug\ShoppingCart_MarkupCompile.lref

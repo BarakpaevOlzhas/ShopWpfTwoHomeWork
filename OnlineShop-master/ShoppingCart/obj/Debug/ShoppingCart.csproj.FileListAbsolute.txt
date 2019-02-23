@@ -1,0 +1,213 @@
+D:\GIT\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+D:\GIT\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+D:\GIT\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\GIT\ShoppingCart\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+D:\GIT\ShoppingCart\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIT\ShoppingCart\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIT\ShoppingCart\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\MainWindow.g.cs
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\App.g.cs
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\App.baml
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\MainWindow.baml
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.Cache
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+D:\GIT\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.g.cs
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.g.cs
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.baml
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.baml
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\КалиаскарР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.pdb
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.g.cs
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.g.cs
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.pdb
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.baml
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.baml
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.pdb
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.g.cs
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.g.cs
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.baml
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.baml
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\КуанбекР\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БаракпаевО\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.g.cs
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\App.baml
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\App.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\App.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\PayPal.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\PayPal.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\PayPal.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\PayPal.xml
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\App.g.cs
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\App.baml
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\User\Desktop\ываыва\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\PayPal.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignColors.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\PayPal.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\App.g.cs
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart_MarkupCompile.lref
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\App.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\MainWindow.baml
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.g.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\TheBl\OneDrive\Рабочий стол\ShoppingCart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
